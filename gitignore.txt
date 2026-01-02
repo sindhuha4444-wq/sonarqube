@@ -1,0 +1,3 @@
+/Tukaram-sonarqube.iml
+/.idea
+/target
